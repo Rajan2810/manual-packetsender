@@ -26,7 +26,7 @@ TCP_ENDPOINTS = {
     "RJ_Emergency": {"ip": "164.100.64.203", "port": 9032},
     "RJ_primary": {"ip": "164.100.64.204", "port": 9031},
     "UP_primary": {"ip": "103.195.217.160", "port": 9031},
-    "UP_Emergency": {"ip": "10.89.48.89", "port": 9032},
+    "UP_Emergency": {"ip": "103.195.217.160", "port": 9032},
     "Goa_Emergency": {"ip": "164.100.64.247", "port": 9032},
     "Goa_Primary": {"ip": "164.100.64.226", "port": 9031}
 }
